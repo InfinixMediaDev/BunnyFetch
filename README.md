@@ -35,5 +35,5 @@ Add the following line to run the script every hour:
 
 ## Disclaimer
 
-The script only tested for `Almalinux 6` with `iptables`
+The script only tested for `Almalinux 8` with `iptables`
 .
