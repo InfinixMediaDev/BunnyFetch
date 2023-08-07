@@ -33,3 +33,7 @@ Add the following line to run the script every hour:
 0 * * * * /bin/bash /path/to/your/BunnyFetch/BunnyFetch.sh >> /path/to/your/BunnyFetch/firewall_update_cron.log 2>&1
 ```
 
+## Disclaimer
+
+The script only tested for 'Almalinux 6' with 'iptables'
+.
